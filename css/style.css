@@ -1,1 +1,16 @@
 /* add CSS class and element and selectors here */
+@import url ('https://fonts.googleapis.com/css?family=Lato');
+
+body {
+      background-color: lightblue;
+      font-size: 150%;
+    }
+    
+    #title-section {font-size:200%;}
+    
+.info-section {font-family: Lato;}
+
+.myClass {
+      background-color: gray;
+      color: blue
+    }
